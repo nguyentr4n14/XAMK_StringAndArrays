@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\bin\Debug\net6.0\StringsAndArrays.exe
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\bin\Debug\net6.0\StringsAndArrays.deps.json
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\bin\Debug\net6.0\StringsAndArrays.runtimeconfig.json
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\bin\Debug\net6.0\StringsAndArrays.dll
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\bin\Debug\net6.0\StringsAndArrays.pdb
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\obj\Debug\net6.0\StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\obj\Debug\net6.0\StringsAndArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\obj\Debug\net6.0\StringsAndArrays.AssemblyInfo.cs
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\obj\Debug\net6.0\StringsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\obj\Debug\net6.0\StringsAndArrays.dll
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\obj\Debug\net6.0\refint\StringsAndArrays.dll
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\obj\Debug\net6.0\StringsAndArrays.pdb
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\obj\Debug\net6.0\StringsAndArrays.genruntimeconfig.cache
+C:\Users\Admin\Documents\XAMK\Introduction to programming\StringAndArrays-main\StringsAndArrays\obj\Debug\net6.0\ref\StringsAndArrays.dll
